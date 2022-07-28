@@ -1,4 +1,4 @@
 # Mapping_Earthquakes
 
-##Summary
+## Summary
 This challenge was to create an interactive webpage that dynamically visualizes recent earthquake data.
